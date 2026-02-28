@@ -1,1 +1,3 @@
-keyboard_key_press(ord("A"));
+with(obj_playerMain) {
+hspeed = -7;
+}
