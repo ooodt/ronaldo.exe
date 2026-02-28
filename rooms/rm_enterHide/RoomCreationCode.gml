@@ -1,0 +1,1 @@
+sound_loop(snd_bgmHide);
