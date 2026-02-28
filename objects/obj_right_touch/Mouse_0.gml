@@ -1,3 +1,3 @@
 with(obj_playerMain) {
-hspeed = 7;
+hspeed = 8;
 }
