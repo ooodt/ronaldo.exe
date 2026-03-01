@@ -8,12 +8,12 @@ action_sound(snd_msgAppear, 0);
 
 if os_type == os_android || os_type == os_ios
 {
-	action_message("ERROR: missing data");
-	room_goto(rm_titleScreen);
+	show_message_async("ERROR: missing data");
+	room_goto(rm_ycrLoading);
 }
 else
 {
-	show_message_async("ERROR: missing data");
+	action_message("ERROR: missing data");
 	action_another_room(rm_ycrLoading);
 }
 }
