@@ -30,10 +30,5 @@ room_goto(rm_startup);
 /// @DnDAction : YoYo Games.Miscellaneous.Set_Window_State
 /// @DnDVersion : 1
 /// @DnDHash : 67FA2544
-window_set_fullscreen(!window_get_fullscreen());
-
-/// @DnDAction : YoYo Games.Miscellaneous.Set_Window_State
-/// @DnDVersion : 1
-/// @DnDHash : 729DEA67
 /// @DnDArgument : "type" "2"
 window_set_fullscreen(true);

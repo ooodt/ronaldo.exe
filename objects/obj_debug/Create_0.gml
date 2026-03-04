@@ -7,9 +7,10 @@ debug = 0;
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 2DC53ECF
-/// @DnDArgument : "code" "// F7 = previous room$(13_10)// F8 = next room$(13_10)// 0 = stop all current audio$(13_10)// 1 = go left faster$(13_10)// 2 = go right faster"
+/// @DnDArgument : "code" "// F7 = previous room$(13_10)// F8 = next room$(13_10)// 0 = stop all current audio$(13_10)// 1 = go left faster$(13_10)// 2 = go right faster$(13_10)// backspace = end game"
 // F7 = previous room
 // F8 = next room
 // 0 = stop all current audio
 // 1 = go left faster
 // 2 = go right faster
+// backspace = end game
