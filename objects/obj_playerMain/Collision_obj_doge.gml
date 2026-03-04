@@ -1,2 +1,0 @@
-global.tailsHiddenClear=1
-
