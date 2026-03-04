@@ -1,3 +1,4 @@
 with(obj_playerMain) {
-hspeed = 8;
+move_right = 1;
 }
+

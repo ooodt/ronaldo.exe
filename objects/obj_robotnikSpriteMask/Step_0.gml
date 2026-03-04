@@ -1,49 +1,91 @@
 self.x=obj_playerMain.x;
 self.y=obj_playerMain.y;
 
-if input_check("left")
+//set up
+with(obj_playerMain) {
+if move_left == 0
+{
+with(obj_robotnikSpriteMask)
+move_left = 0;
+}
+}
+
+with(obj_playerMain) {
+if move_right == 0
+{
+with(obj_robotnikSpriteMask)
+move_right = 0;
+}
+}
+
+with(obj_playerMain) {
+if move_left == 1
+{
+with(obj_robotnikSpriteMask)
+move_left = 1;
+}
+}
+
+with(obj_playerMain) {
+if move_right == 1
+{
+with(obj_robotnikSpriteMask)
+move_right = 1;
+}
+}
+
+with(obj_playerMain) {
+if move_right == 3
+{
+with(obj_robotnikSpriteMask)
+move_right = 3;
+}
+}
+
+
+if move_left == 1
 {
 sprite_index=spr_robotnikLeft
 image_speed=0.15
 }
 
-if input_check_released("left")
+if move_left == 0
 {
 sprite_index=spr_robotnikIdleLeft
 image_speed=0.15
 }
 
-if input_check("right")
+if move_right == 1
 {
 sprite_index=spr_robotnikRight
 image_speed=0.15
 }
 
-if input_check_released("right")
+if move_right == 0
 {
 sprite_index=spr_robotnikIdleRight
 image_speed=0.15
 }
 
-if (input_check_released("right")) && (input_check("left"))
+if move_right == 0 && move_left == 1
 {
 sprite_index=spr_robotnikLeft
 image_speed=0.15
 }
 
-if (input_check_released("left")) && (input_check("right"))
+if move_left == 0 && move_right == 1
 {
 sprite_index=spr_robotnikRight
 image_speed=0.15
 }
 
-if (obj_playerMain.var_direction = "right") && (input_check("right")) && (input_check("left"))
+if (obj_playerMain.var_direction = "right") && move_right == 1 && move_left == 1
 {
 sprite_index=spr_robotnikRight
 image_speed=0.15
 }
 
-if (obj_playerMain.var_direction = "left") && (input_check("left")) && (input_check("right"))
+if (obj_playerMain.var_direction = "left") && move_left == 1 && move_right == 1
 {
 sprite_index=spr_robotnikLeft
 image_speed=0.15

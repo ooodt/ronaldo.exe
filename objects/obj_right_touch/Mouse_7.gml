@@ -1,4 +1,3 @@
 with(obj_playerMain) {
-move_left = 1;
+move_right = 0;
 }
-

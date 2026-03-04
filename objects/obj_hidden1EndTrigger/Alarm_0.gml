@@ -1,1 +1,1 @@
-action_another_room(rm_ycrLoading);
+action_another_room(rm_ycrEnd);
