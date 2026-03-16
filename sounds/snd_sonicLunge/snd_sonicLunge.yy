@@ -15,7 +15,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_sonicLunge",
-  "duration": 0.0,
+  "duration": 0.428413,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

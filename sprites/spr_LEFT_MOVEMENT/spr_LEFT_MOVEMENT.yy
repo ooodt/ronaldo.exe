@@ -10,10 +10,10 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 0,
-  "bbox_right": 255,
-  "bbox_top": 0,
-  "bbox_bottom": 476,
+  "bbox_left": 27,
+  "bbox_right": 101,
+  "bbox_top": 303,
+  "bbox_bottom": 356,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -64,7 +64,7 @@
     "eventStubScript": null,
   },
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"0d4e4923-d482-4c5e-9e47-6e14519841d8","visible":true,"isLocked":false,"blendMode":0,"opacity":1.0,"displayName":"default",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"0d4e4923-d482-4c5e-9e47-6e14519841d8","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": {
     "left": 0,

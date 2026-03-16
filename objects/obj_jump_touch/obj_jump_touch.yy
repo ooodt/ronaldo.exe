@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_left_touch",
+  "name": "obj_jump_touch",
   "spriteId": {
-    "name": "spr_LEFT_MOVEMENT",
-    "path": "sprites/spr_LEFT_MOVEMENT/spr_LEFT_MOVEMENT.yy",
+    "name": "spr_JUMP_MOVEMENT",
+    "path": "sprites/spr_JUMP_MOVEMENT/spr_JUMP_MOVEMENT.yy",
   },
   "solid": false,
   "visible": true,
@@ -25,11 +25,9 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":6,"collisionObjectId":null,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":7,"eventType":6,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":11,"eventType":6,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":13,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],

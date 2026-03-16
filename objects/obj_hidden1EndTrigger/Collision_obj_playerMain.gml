@@ -6,4 +6,5 @@ action_end_sound(snd_bgmHidden1);
 script_execute(createStatic,120,0,0,0,0);
 action_set_alarm(120, 0);
 action_end_sound(snd_static);
+action_sound(snd_sonicLunge, 0);
 action_sound(snd_scream2, 0);

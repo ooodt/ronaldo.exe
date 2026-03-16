@@ -29,5 +29,5 @@ canJump=1
 
 move_right=0;
 move_left=0;
-
+move_jump=0;
 device_mouse_dbclick_enable(true)

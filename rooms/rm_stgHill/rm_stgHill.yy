@@ -19,8 +19,6 @@
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"Assets_1","assets":[],"visible":true,"depth":-126,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Compatibility_Instances_Depth_-26","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_57BD917C","properties":[],"isDnd":true,"objectId":{"name":"obj_hudIcon","path":"objects/obj_hudIcon/obj_hudIcon.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":13.0,"y":406.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2485C6EC","properties":[],"isDnd":false,"objectId":{"name":"obj_right_touch","path":"objects/obj_right_touch/obj_right_touch.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":384.0,"y":0.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_25565258","properties":[],"isDnd":false,"objectId":{"name":"obj_left_touch","path":"objects/obj_left_touch/obj_left_touch.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,},
       ],"visible":true,"depth":-26,"userdefinedDepth":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Compatibility_Instances_Depth_-1","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5DB9A0EF","properties":[],"isDnd":false,"objectId":{"name":"obj_hillDuck","path":"objects/obj_hillDuck/obj_hillDuck.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":12039.0,"y":283.0,},
@@ -594,8 +592,6 @@
     {"name":"inst_8E1737E8","path":"rooms/rm_stgHill/rm_stgHill.yy",},
     {"name":"inst_128A6554","path":"rooms/rm_stgHill/rm_stgHill.yy",},
     {"name":"inst_57BD917C","path":"rooms/rm_stgHill/rm_stgHill.yy",},
-    {"name":"inst_2485C6EC","path":"rooms/rm_stgHill/rm_stgHill.yy",},
-    {"name":"inst_25565258","path":"rooms/rm_stgHill/rm_stgHill.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

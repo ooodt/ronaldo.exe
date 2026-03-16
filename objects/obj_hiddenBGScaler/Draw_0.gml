@@ -26,3 +26,11 @@ else if os_type != os_windows && os_type != os_macosx && os_type != os_linux
 
 draw_text(3989,83,string_hash_to_newline("But this is my world..."))
 draw_text(6188,71,string_hash_to_newline("Won't be long now..."))
+
+/*Text order
+"You're fun to play with, Player."
+"But this is my world..."
+"Won't be long now..."
+"Soon, you will be joining us..."
+"Player, are you listening?"
+*/

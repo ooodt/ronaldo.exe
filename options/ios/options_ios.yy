@@ -4,7 +4,7 @@
   "name": "iOS",
   "option_ios_display_name": "ronaldo.exe",
   "option_ios_bundle_name": "com.ooodtgaming.ronaldo",
-  "option_ios_version": "1.1.0",
+  "option_ios_version": "1.1.1",
   "option_ios_build_number": 0,
   "option_ios_output_dir": "~/gamemakerstudio2",
   "option_ios_team_id": "",

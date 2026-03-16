@@ -37,8 +37,10 @@ move_left = 1;}
 	
 if input_check_released("left"){
 	move_left = 0;
-	move_right =3}
+	move_right = 3}
 
+if input_check_pressed("jump"){
+	move_jump = 1;}
 
 
 // Movement right
@@ -79,7 +81,8 @@ if move_left == 0{
 }
 
 // Jump 
-if (input_check_pressed("jump")) {
+if move_jump == 1 {
+	move_jump = 0;
 	if (canJump=1)
 	if not (global.character="robotnik")
 	{
