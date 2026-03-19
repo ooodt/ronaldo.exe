@@ -1,5 +1,6 @@
 action_set_relative(1);
 action_sound(snd_sonicLunge, 0);
+action_sound(snd_gore, 0);
 action_sprite_set(spr_sonicKillKnux, 0, 1);
 self.x -=25;
 self.y -=26;

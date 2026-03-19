@@ -17,6 +17,13 @@ else if (global.character="robotnik")
     instance_create(self.x,self.y,obj_robotnikSpriteMask);
 }
 
+else if (global.character="sonic")
+{
+    canJump = 0;
+    instance_create(self.x,self.y,obj_sonicSpriteMask);
+	instance_create(self.x,self.y,obj_sonicJumpMask);
+}
+
 //Core Variables
 
 var_speed = 1; // The speed the player gains per step until it have reached its max

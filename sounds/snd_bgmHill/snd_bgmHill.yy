@@ -15,7 +15,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_bgmHill",
-  "duration": 0.0,
+  "duration": 135.54063,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

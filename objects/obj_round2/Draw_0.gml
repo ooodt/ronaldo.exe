@@ -10,7 +10,7 @@ else if os_type == os_windows
         draw_text(319,239,string_hash_to_newline("Ready for Round 2, "+environment_get_variable("USERNAME")+"?"));
 }
 
-else if os_type != os_windows && os_type != os_macosx && os_type != os_linux
+else
 {
         draw_text(319,239,string_hash_to_newline("Ready for Round 2, Player?"));
 }
@@ -27,7 +27,7 @@ else if os_type == os_windows
 {
     draw_text(320,240,string_hash_to_newline("Ready for Round 2, "+environment_get_variable("USERNAME")+"?"));
 }
-else if os_type != os_windows && os_type != os_macosx && os_type != os_linux
+else
 {
 	 draw_text(320,240,string_hash_to_newline("Ready for Round 2, Player?"));
 }

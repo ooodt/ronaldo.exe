@@ -15,7 +15,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_msgAppear",
-  "duration": 0.0,
+  "duration": 1.690272,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

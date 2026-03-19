@@ -1,3 +1,6 @@
+if (global.tailsHiddenClear == 1){
+    instance_create(272, 246, obj_negaRing);
+}
 obj_hillWater.sprite_index=spr_hillWater;
 obj_hillWater.image_speed=0.2;
 //Set Camera Position

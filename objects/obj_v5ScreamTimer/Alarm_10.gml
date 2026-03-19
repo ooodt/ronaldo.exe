@@ -1,0 +1,1 @@
+instance_create_layer(0, 0, "static_layer", obj_V5Static);

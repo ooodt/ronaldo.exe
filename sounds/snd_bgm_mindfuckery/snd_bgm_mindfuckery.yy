@@ -15,7 +15,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_bgm_mindfuckery",
-  "duration": 0.0,
+  "duration": 19.226122,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

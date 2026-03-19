@@ -15,7 +15,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_bgmRobotnik",
-  "duration": 0.0,
+  "duration": 255.97243,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

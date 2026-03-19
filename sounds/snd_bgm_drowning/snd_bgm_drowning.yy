@@ -15,7 +15,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_bgm_drowning",
-  "duration": 0.0,
+  "duration": 11.675283,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

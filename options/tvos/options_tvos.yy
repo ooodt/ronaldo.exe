@@ -4,7 +4,7 @@
   "name": "tvOS",
   "option_tvos_display_name": "ronaldo.exe",
   "option_tvos_bundle_name": "com.ooodtgaming.ronaldo",
-  "option_tvos_version": "1.1.1",
+  "option_tvos_version": "2.0.0",
   "option_tvos_build_number": 0,
   "option_tvos_output_dir": "~/GameMakerStudio2/tvOS",
   "option_tvos_team_id": "",

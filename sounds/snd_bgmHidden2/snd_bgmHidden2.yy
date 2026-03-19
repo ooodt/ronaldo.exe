@@ -15,7 +15,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_bgmHidden2",
-  "duration": 0.0,
+  "duration": 40.33161,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

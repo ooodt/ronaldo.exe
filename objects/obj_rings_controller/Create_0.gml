@@ -1,2 +1,0 @@
-global.rings = 0;
-

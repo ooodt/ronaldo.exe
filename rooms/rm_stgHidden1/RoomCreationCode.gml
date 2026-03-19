@@ -10,4 +10,6 @@ instance_create(__view_get( e__VW.XView, 0 )+13,__view_get( e__VW.YView, 0 )+406
 instance_create(__view_get( e__VW.XView, 0 ),__view_get( e__VW.YView, 0 ),obj_fadeIn);
 obj_hudMain.image_speed=0.25;
 global.character = "knux";
+audio_play_sound(snd_euphoriaVoice, 10, true);
+global.knuxHiddenClear = 1;
 //instance_create(0,0,obj_fadeInBlack);

@@ -15,7 +15,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_endgameMessage1",
-  "duration": 0.0,
+  "duration": 33.515102,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

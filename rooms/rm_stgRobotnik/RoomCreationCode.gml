@@ -1,3 +1,6 @@
+if (global.robotnikHiddenClear == 1){
+    instance_create(224, 208, obj_negaRing);
+}
 //Set Camera Position
 __view_set( e__VW.XView, 0, 416 );
 

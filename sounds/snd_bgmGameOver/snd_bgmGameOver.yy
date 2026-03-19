@@ -15,7 +15,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_bgmGameOver",
-  "duration": 0.0,
+  "duration": 10.631837,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

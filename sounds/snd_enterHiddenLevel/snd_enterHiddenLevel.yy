@@ -15,7 +15,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_enterHiddenLevel",
-  "duration": 0.0,
+  "duration": 4.191202,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

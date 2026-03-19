@@ -6,6 +6,6 @@
   "isCompatibility": true,
   "parent": {
     "name": "background",
-    "path": "folders/Scripts/compatibility/background.yy",
+    "path": "folders/Scripts/GMS2 Compatibility/background.yy",
   },
 }

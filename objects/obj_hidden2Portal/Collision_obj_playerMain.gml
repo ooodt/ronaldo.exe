@@ -1,9 +1,10 @@
-with (obj_robotnikSpriteMask) {
-action_kill_object();
-}
-with (obj_playerMain) {
-action_kill_object();
-}
-action_end_sound(snd_bgmRobotnik);
-script_execute(createStatic,120,0,0,0,0);
+with (obj_robotnikSpriteMask)
+    action_kill_object();
+
+with (obj_playerMain)
+    action_kill_object();
+
+audio_stop_all();
+action_end_sound(8);
+createStatic(120);
 action_set_alarm(120, 0);

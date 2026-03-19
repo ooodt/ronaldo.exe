@@ -15,7 +15,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_sonicAppearKnux",
-  "duration": 0.0,
+  "duration": 0.551043,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
