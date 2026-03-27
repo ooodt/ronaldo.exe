@@ -1,3 +1,2 @@
-x = obj_playerMain.x;
-y = obj_playerMain.y;
-
+self.x = obj_playerMain.x;
+self.y = obj_playerMain.y;

@@ -3,3 +3,4 @@ obj_playerMain.canJump=0
 
 action_sound(snd_bgmHillEnd, 0);
 action_end_sound(snd_bgmHill);
+action_create_object(obj_doge2, 176, 80);

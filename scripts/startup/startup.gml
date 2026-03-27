@@ -7,8 +7,5 @@ function startup() {
 	global.tailsHiddenClear=0
 	global.knuxHiddenClear=0
 	global.robotnikHiddenClear=0
-	room_goto_next();
-
-
-
+	room_goto(rm_titleScreen);
 }

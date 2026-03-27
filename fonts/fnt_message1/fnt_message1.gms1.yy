@@ -25,7 +25,6 @@
   },
   "ascenderOffset": 0,
   "ascender": 0,
-  "lineHeight": 0,
   "glyphs": {
     "32": {"x":21,"y":0,"w":19,"h":35,"character":32,"shift":19,"offset":0,},
     "33": {"x":11,"y":216,"w":5,"h":30,"character":33,"shift":19,"offset":7,},
@@ -128,7 +127,7 @@
   "ranges": [],
   "regenerateBitmap": false,
   "canGenerateBitmap": true,
-  "maintainGms1Font": false,
+  "maintainGms1Font": true,
   "parent": {
     "name": "Fonts",
     "path": "folders/Fonts.yy",

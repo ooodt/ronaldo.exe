@@ -3,7 +3,7 @@
   "resourceVersion": "1.0",
   "name": "snd_v5Static",
   "conversionMode": 0,
-  "compression": 1,
+  "compression": 0,
   "volume": 1.0,
   "preload": true,
   "bitRate": 192,

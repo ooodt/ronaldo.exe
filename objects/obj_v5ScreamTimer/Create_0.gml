@@ -8,4 +8,3 @@ alarm[6] = room_speed * 60.1;
 alarm[7] = room_speed * 63.1;
 alarm[8] = room_speed * 66.1;
 alarm[9] = room_speed * 80.6;
-

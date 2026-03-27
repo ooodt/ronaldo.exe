@@ -1,2 +1,2 @@
-action_sprite_set(123, 0, 0.12);
+action_sprite_set(spr_SonicJump, 0, 0.12);
 

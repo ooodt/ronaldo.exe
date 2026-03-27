@@ -13,4 +13,3 @@ else
     yScale = 1;
     alphaValue = 1;
 }
-

@@ -17,3 +17,6 @@ action_move("000100000", 2);
 with (obj_hillWater) {
 action_move("000100000", 2);
 }
+
+if global.scaryday==1{
+	sound_play(sfx_kefka);}

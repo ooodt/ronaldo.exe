@@ -1,3 +1,1 @@
-with(obj_playerMain) {
-move_right = 0;
-}
+global.move_right = 0;

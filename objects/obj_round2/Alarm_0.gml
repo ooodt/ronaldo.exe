@@ -5,7 +5,7 @@ if global.playerscore == 1
 	room_goto(rm_gameOver2)
 }
 
-
+else{
 action_another_room(rm_gameOver);
 room_goto(rm_gameOver);
-
+}

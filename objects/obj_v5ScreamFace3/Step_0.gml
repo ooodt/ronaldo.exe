@@ -7,4 +7,3 @@ if (alphaValue < 0)
     with (self)
         instance_destroy();
 }
-

@@ -1,1 +1,2 @@
-action_create_object(obj_hidden2Portal, 256, 0);
+if (global.robotnikHiddenClear == 0)
+    instance_create(256, 0, obj_hidden2Portal);
