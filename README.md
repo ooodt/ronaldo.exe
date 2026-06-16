@@ -21,7 +21,7 @@ Based off of [sonic.exe](https://gamejolt.com/games/sonic-exe-the-game/16239)
 
 Original creater [MY5TCrimson](https://gamejolt.com/@MY5TCrimson)
 
-Controller input [input_8_1_3](https://offalynne.grebedoc.dev/Input/#/8.1/) (Note: starting 2.0.5 this tool is no longer being used)
+Controller input [input_8_1_3](https://offalynne.grebedoc.dev/Input/#/8.1/) (NOTE: starting 2.0.5 this tool is no longer being used)
 
 Bryhax for game over art
 
