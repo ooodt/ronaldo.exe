@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "__view_set_internal",
-  "isDnD": false,
-  "isCompatibility": true,
-  "parent": {
-    "name": "view",
-    "path": "folders/Scripts/compatibility/view.yy",
+  "$GMScript":"v1",
+  "%Name":"__view_set_internal",
+  "isCompatibility":true,
+  "isDnD":false,
+  "name":"__view_set_internal",
+  "parent":{
+    "name":"view",
+    "path":"folders/Scripts/Gamemaker Compatibility/compatibility/view.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

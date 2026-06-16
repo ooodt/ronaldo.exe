@@ -1,4 +1,4 @@
-action_font(1, 1);
+action_font(fnt_message1, 1);
 action_color(16777215);
 draw_text(2023, 172, string_hash_to_newline("You had a chance to comply. Now you've come too far."));
 draw_text(4989, 83, string_hash_to_newline("Can you hear them? They're trying to tell you something."));

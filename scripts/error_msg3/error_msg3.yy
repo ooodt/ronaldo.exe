@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"error_msg3",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"error_msg3",
+  "parent":{
+    "name":"sys_msg",
+    "path":"folders/Scripts/sys_msg.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

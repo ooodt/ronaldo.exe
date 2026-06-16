@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"funday_msg",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"funday_msg",
+  "parent":{
+    "name":"sys_msg",
+    "path":"folders/Scripts/sys_msg.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

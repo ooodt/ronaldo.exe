@@ -20,7 +20,7 @@ image_speed=0.15
 
 else
 {
-sprite_index=spr_tailsScaredRight
+sprite_index=spr_tailsScaredLeft
 image_speed=0.2
 }
 }

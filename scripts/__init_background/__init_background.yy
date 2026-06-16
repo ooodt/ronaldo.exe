@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "__init_background",
-  "isDnD": false,
-  "isCompatibility": true,
-  "parent": {
-    "name": "background",
-    "path": "folders/Scripts/GMS2 Compatibility/background.yy",
+  "$GMScript":"v1",
+  "%Name":"__init_background",
+  "isCompatibility":true,
+  "isDnD":false,
+  "name":"__init_background",
+  "parent":{
+    "name":"background",
+    "path":"folders/Scripts/Gamemaker Compatibility/GMS2 Compatibility/background.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "action_next_room",
-  "isDnD": false,
-  "isCompatibility": true,
-  "parent": {
-    "name": "action",
-    "path": "folders/Scripts/compatibility/action.yy",
+  "$GMScript":"v1",
+  "%Name":"action_next_room",
+  "isCompatibility":true,
+  "isDnD":false,
+  "name":"action_next_room",
+  "parent":{
+    "name":"action",
+    "path":"folders/Scripts/Gamemaker Compatibility/compatibility/action.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

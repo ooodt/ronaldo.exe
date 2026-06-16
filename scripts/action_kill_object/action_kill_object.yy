@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "action_kill_object",
-  "isDnD": false,
-  "isCompatibility": true,
-  "parent": {
-    "name": "action",
-    "path": "folders/Scripts/compatibility/action.yy",
+  "$GMScript":"v1",
+  "%Name":"action_kill_object",
+  "isCompatibility":true,
+  "isDnD":false,
+  "name":"action_kill_object",
+  "parent":{
+    "name":"action",
+    "path":"folders/Scripts/Gamemaker Compatibility/compatibility/action.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

@@ -1,1 +1,2 @@
+audio_stop_sound(snd_static);
 action_another_room(rm_robotnikLoading);

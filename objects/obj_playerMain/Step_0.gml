@@ -20,23 +20,28 @@ var_move = 1; }
 else {
 var_move = 0;}
 
-// CONTROL MOVEMENT
-if input_check("right"){
-global.move_right = 1;}
-	
-if input_check_released("right"){
-global.move_right = 0;}
-
-if input_check("left"){
-global.move_left = 1;}
-	
-if input_check_released("left"){
+// setup
+if gamepad_button_check(global.slot, gp_padr) || keyboard_check(vk_right)
+{
+global.move_right = 1;
+}
+if gamepad_button_check_released(global.slot, gp_padr) ||keyboard_check_released(vk_right)
+{
+global.move_right = 0;
+}
+if gamepad_button_check(global.slot, gp_padl) || keyboard_check(vk_left)
+{
+global.move_left = 1;
+}
+if gamepad_button_check_released(global.slot, gp_padl) || keyboard_check_released(vk_left)
+{
 global.move_left = 0;
-global.move_right = 3}
-
-if input_check_pressed("jump"){
-global.move_jump = 1;}
-
+global.move_right =3
+}
+if keyboard_check_pressed(vk_space)||gamepad_button_check_pressed(global.slot, gp_face1)
+{
+global.move_jump=1
+}
 
 // Movement right
 if global.move_right == 1{
@@ -102,4 +107,36 @@ if global.move_jump == 1 {
 	}
 	alarm[1]=50; }
 	}
+}
+//ANALOG SUPPORT
+if (gamepad_is_connected(0))
+{
+var deadzone = 0.3;
+
+//Right movement
+if (keyboard_check(vk_right) || gamepad_button_check(global.slot, gp_padr) || gamepad_axis_value(global.slot, gp_axislh) > deadzone) 
+{
+    global.move_right = 1;
+} 
+else 
+{
+    if (global.move_right != 3) 
+    {
+        global.move_right = 0;
+    }
+}
+//Left movement
+
+if (keyboard_check(vk_left) || gamepad_button_check(global.slot, gp_padl) || gamepad_axis_value(global.slot, gp_axislh) < -deadzone) 
+{
+    global.move_left = 1;
+}
+else 
+{
+    if (global.move_left == 1) 
+	{
+        global.move_left = 0;
+        global.move_right = 3; 
+    }
+}
 }

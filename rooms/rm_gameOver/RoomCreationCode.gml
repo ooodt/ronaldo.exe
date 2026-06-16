@@ -1,1 +1,1 @@
-sound_play(snd_bgmGameOver);
+sound_loop(snd_bgmGameOver);

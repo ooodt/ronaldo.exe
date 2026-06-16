@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "__global_object_depths",
-  "isDnD": false,
-  "isCompatibility": true,
-  "parent": {
-    "name": "compatibility",
-    "path": "folders/Scripts/compatibility.yy",
+  "$GMScript":"v1",
+  "%Name":"__global_object_depths",
+  "isCompatibility":true,
+  "isDnD":false,
+  "name":"__global_object_depths",
+  "parent":{
+    "name":"compatibility",
+    "path":"folders/Scripts/Gamemaker Compatibility/compatibility.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

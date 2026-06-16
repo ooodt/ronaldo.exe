@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "sound_loop",
-  "isDnD": false,
-  "isCompatibility": true,
-  "parent": {
-    "name": "sound",
-    "path": "folders/Scripts/compatibility/sound.yy",
+  "$GMScript":"v1",
+  "%Name":"sound_loop",
+  "isCompatibility":true,
+  "isDnD":false,
+  "name":"sound_loop",
+  "parent":{
+    "name":"sound",
+    "path":"folders/Scripts/Gamemaker Compatibility/compatibility/sound.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

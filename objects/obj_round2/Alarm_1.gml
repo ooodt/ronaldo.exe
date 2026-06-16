@@ -10,7 +10,6 @@ if(__dnd_score == 1)
 	/// @DnDHash : 1D7650BC
 	/// @DnDParent : 107194A9
 	/// @DnDArgument : "room" "rm_gameOver2"
-	/// @DnDSaveInfo : "room" "rm_gameOver2"
 	room_goto(rm_gameOver2);
 }
 

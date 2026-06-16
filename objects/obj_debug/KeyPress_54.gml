@@ -1,1 +1,3 @@
-room_goto(rm_enterHidden1);
+/// @description hidden2
+global.character="robotnik"
+room_goto(rm_stgHidden2);

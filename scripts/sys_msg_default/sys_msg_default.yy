@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sys_msg_default",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sys_msg_default",
+  "parent":{
+    "name":"sys_msg",
+    "path":"folders/Scripts/sys_msg.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

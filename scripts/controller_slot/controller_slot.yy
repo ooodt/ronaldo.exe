@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"controller_slot",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"controller_slot",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
