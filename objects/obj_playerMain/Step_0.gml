@@ -114,7 +114,7 @@ if (gamepad_is_connected(global.slot))
 var deadzone = 0.3;
 
 //Right movement
-if (gamepad_button_check(global.slot, gp_padr) || gamepad_axis_value(global.slot, gp_axislh) > deadzone) 
+if (keyboard_check(vk_right) || gamepad_button_check(global.slot, gp_padr) || gamepad_axis_value(global.slot, gp_axislh) > deadzone) 
 {
     global.move_right = 1;
 } 
@@ -127,7 +127,7 @@ else
 }
 //Left movement
 
-if (gamepad_button_check(global.slot, gp_padl) || gamepad_axis_value(global.slot, gp_axislh) < -deadzone) 
+if (keyboard_check(vk_left) || gamepad_button_check(global.slot, gp_padl) || gamepad_axis_value(global.slot, gp_axislh) < -deadzone) 
 {
     global.move_left = 1;
 }
