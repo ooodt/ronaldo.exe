@@ -14,8 +14,8 @@
   "exportDir":"audio",
   "name":"snd_euphoriaVoice",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"bgm",
+    "path":"folders/Sounds/bgm.yy",
   },
   "preload":true,
   "resourceType":"GMSound",

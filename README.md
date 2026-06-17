@@ -6,10 +6,10 @@ inspired by [61.exe](https://gamejolt.com/games/61-EXE/1027466) and those ronald
 ~~Gamemaker 2022 LTS used~~ starting 2.0.5 Gamemaker 2026 LTS is used
 ### Notes
 ~~When playing on AndroidTV you must use a controller~~ starting 2.0.5 tv remotes now work
+recommended for mobile users who can't sideload:
 
-GX Games version (recommended for mobile users who can't sideload) [click here](https://gx.games/games/pfec9l/ronaldo-exe/)
-
-Web version [here](https://ooodt.github.io/ronaldo.exe_WEB/)
+GX Games website [click here](https://gx.games/games/pfec9l/ronaldo-exe/)
+Local GX version [here](https://ooodt.github.io/ronaldo.exe_WEB/)
 
 ### Studio 1.4 build
 This is a build meant for older devices but also includes builds for the Psvita, Ps3, and Ps4. Check it out [here](https://github.com/ooodt/ronaldo_studio1.4)
